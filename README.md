@@ -9,4 +9,8 @@ This code snippet allows users to automatically refresh metadata for a range of 
 3. Paste the modified code into the browser console or a JavaScript execution environment.
 4. Run the code to initiate the automatic metadata refresh.
 
+Note: Ensure that you have the appropriate permissions to modify and interact with OpenSea NFTs in the browser console.
+
+Feel free to customize the code snippet as per your requirements.
+
      
